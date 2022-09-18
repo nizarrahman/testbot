@@ -1,4 +1,4 @@
-# ArullBotz
+# Nizar Rahman 
 
 ---
 
