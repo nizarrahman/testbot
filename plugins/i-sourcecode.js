@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
       requestFrom: m.sender,
       noteMessage: {
       extendedTextMessage: {
-      text: '*Nih:*\nhttps://youtu.be/CNjzPdFqecs,\n\n*Ambil aja disitu,jangan lupa kasih star*',
+      text: '*Nih:*\nhttps://instagram.com/NizarRahman.f_,\n\n*Ambil aja disitu,jangan lupa Follow*',
       contextInfo: {
       externalAdReply: {
       showAdAttribution: true
